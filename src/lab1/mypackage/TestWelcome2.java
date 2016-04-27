@@ -7,4 +7,5 @@ public class TestWelcome2 extends TestCase{
 		String result = Welcome2.welcome();
 		assertEquals("Welcome", result);
 		}
+		//I Love You
 }
